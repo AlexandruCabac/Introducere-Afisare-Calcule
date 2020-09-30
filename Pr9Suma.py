@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+print(a,"+",b,"=",a+b)
+print(a,"+",c,"=",a+c)
+print(b,"+",c,"=",b+c)
